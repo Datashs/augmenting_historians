@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Augmenting Historians"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Rygiel"
+    given-names: "Philippe"
+    orcid: "https://orcid.org/0000-0002-5308-8961"
+
+abstract: >
+  An experimental infrastructure for computational critique of historical
+  writing using RAG architectures, argumentation analysis, rhetorical mapping,
+  and large language models.
+
+keywords:
+  - digital humanities
+  - history
+  - RAG
+  - argumentation analysis
+  - rhetorical analysis
+  - computational humanities
+  - large language models
+  - historical writing
+
+license: MIT
+
+repository-code: "https://github.com/Datashs/augmenting_historians"
+
+url: "https://github.com/Datashs/augmenting_historians"
+
+language: en
+
+version: "0.1.0"
+
+date-released: 2025-09-30
