@@ -1,5 +1,7 @@
 # Pipeline d'analyse argumentative et rhétorique pour l'historien
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20122308.svg)](https://doi.org/10.5281/zenodo.20122308)
+
 ## Ce que fait ce dispositif
 
 Ce pipeline est un ensemble de scripts Python qui assiste l'historien dans

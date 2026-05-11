@@ -1,0 +1,29 @@
+{
+  "@context": "https://doi.org/10.5281/zenodo.20122308",
+  "@type": "SoftwareSourceCode",
+  "name": "Augmenting Historians",
+  "description": "An experimental infrastructure for computational critique of historical writing using RAG architectures, argumentation analysis, rhetorical mapping, and large language models.",
+  "codeRepository": "https://github.com/Datashs/augmenting_historians",
+  "license": "https://opensource.org/licenses/MIT",
+  "version": "0.1.0",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "keywords": [
+    "digital humanities",
+    "history",
+    "RAG",
+    "argumentation analysis",
+    "rhetorical analysis",
+    "large language models",
+    "computational humanities"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Philippe",
+      "familyName": "Rygiel",
+      "@id": "https://orcid.org/0000-0002-5308-8961"
+    }
+  ]
+}

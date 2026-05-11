@@ -1,5 +1,7 @@
 # Argumentative and Rhetorical Analysis Pipeline for Historians
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20122308.svg)](https://doi.org/10.5281/zenodo.20122308)
+
 ## What this system does
 
 This pipeline is a set of Python scripts that assists historians in the
