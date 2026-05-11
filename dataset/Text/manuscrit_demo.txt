@@ -1,0 +1,113 @@
+# manuscrit_demo.txt
+# Extraits sélectionnés pour démonstration du pipeline d'analyse argumentative
+# Source : Philippe Rygiel, Les fièvres de l'extradition (version de travail)
+# Usage : fichier de test pour les scripts 06, 07, 09, 10, 11, A, B, C, D
+# Les notes de bas de page ont été supprimées pour simplifier le traitement.
+# Sélection organisée en cinq blocs thématiques et analytiques.
+
+---
+
+## BLOC 1 — Introduction et cadrage historiographique
+## Potentiel analytique : fort potentiel Toulmin (claim / grounds / warrant sur la pertinence du sujet)
+## Fort potentiel Perelman (auditoire disciplinaire, technique du paradoxe, valeurs de la communauté savante)
+
+§1
+L'extradition est une procédure technique. Fréquente, réglée par des milliers de traités bilatéraux, elle s'exécute le plus souvent dans l'indifférence générale. Mais il suffit qu'une affaire retentissante la remette au premier plan — la longue cavale de Julian Assange, réclamé par Washington au nom de l'espionnage et protégé par Londres pendant des années au nom des libertés fondamentales ; le feuilleton sans fin de Carles Puigdemont, leader catalan en exil que Madrid réclame depuis 2017 et que les tribunaux européens se renvoient comme une balle ; la lente réouverture, en 2025, du couloir d'extradition entre la France et Dubaï, qui avait longtemps servi de sanctuaire commode aux narcotrafiquants en fuite — pour que resurgissent, avec elle, des questions que l'on croyait réglées : qu'est-ce qu'un État doit à un autre ? Où s'arrête sa souveraineté ? À qui appartient un fugitif ?
+
+§2
+Ces questions ne sont pas nouvelles. L'extradition est peut-être l'une des plus anciennes procédures par lesquelles des États souverains ont accepté de se lier mutuellement — l'un des premiers signes, donc, qu'il existait entre eux quelque chose qui ressemblait à une société. C'est ce paradoxe probablement qui retient aujourd'hui l'intérêt de l'historien et explique la multiplication depuis quelques années des travaux consacrés à son histoire : à l'heure où cette société internationale semble se défaire, comprendre comment elle s'est formée n'est plus seulement une curiosité érudite.
+
+§3
+Cette historiographie, abondante, riche et renouvelée, nous apprend que certaines affaires d'extradition furent des causes célèbres, suscitant des réactions passionnées, des débats féroces et incidemment des torrents de textes. Nous ne disposons pas cependant d'études définissant l'extradition comme objet médiatique, thème de débats publics, ou support de représentations collectives et constituant comme corpus les textes et les représentations qui lui sont associés. Sans préjuger des liens entre ces multiples discours et les pratiques concrètes des institutions judiciaires et policières, ni la genèse des normes qui les règlent, nous nous proposons dans ce court ouvrage d'explorer les formes de ces représentations et leur évolution au cours d'un long dix-neuvième siècle allant du lendemain des guerres napoléoniennes à la veille de la seconde guerre mondiale.
+
+§4
+Plusieurs préoccupations, distinctes, nous y amènent. Il s'agit d'une part d'examiner l'extradition au miroir des discours dont elle fait l'objet, de l'observer, depuis un espace national, réfléchie par les textes destinés au public qui l'évoquent, à la fois donc en tant qu'elle est présentée aux lecteurs, mais aussi qu'elle est pensée par les producteurs de ces discours. Cela afin de dresser une cartographie des valeurs et des significations qui sont attachées à cette pratique et leur évolution, durant une période qui voit un acte de courtoisie cimentant les bonnes relations entre souverains devenir un mécanisme clé policant une société globale en émergence.
+
+---
+
+## BLOC 2 — Critique des sources et méthode
+## Potentiel analytique : fort potentiel RST (relations de contraste et de concession bien construites)
+## Fort potentiel Toulmin (qualifier et rebuttal explicites — passages de prudence méthodologique)
+
+§5
+En ce sens cet ouvrage a quelque chose du récit d'une expérience, l'entreprise quelque chose d'un exercice que tout historien chevronné déconseillerait vivement à ses étudiants, puisqu'il s'agit au fond d'une recherche guidée par les données et les outils disponibles, destinée à en cerner les potentialités, data-driven donc si l'on souhaite parler savant. Il ne faut lire en ces lignes aucune prise de position épistémologique ou de jugement sur la supériorité de telle ou telle approche. Tranquillement agnostique, je tiens que tout est bon tant que l'on produit des choses qui tiennent et nous apprennent quelque chose.
+
+§6
+La simple lecture de ces courbes nous livre donc une information claire, mais pauvre. Il est facile de trouver des textes, en plusieurs langues européennes, mentionnant l'extradition après le milieu du XIXe siècle, ils sont rares auparavant, et ils sont particulièrement nombreux durant le dernier tiers du XIXe siècle et le début du vingtième siècle. Les évolutions de l'usage du terme, après la première guerre mondiale, apparaissent, usant de ces dispositifs, plus contrastées, moins lisibles, que cela soit lié aux particularités de corpus linguistiques à la composition pouvant changer selon la date de parution des textes ou que cela renvoie à des évolutions des pratiques discursives différentes selon les contextes nationaux ou linguistiques. Cela incite à concentrer l'analyse sur la période s'achevant avec la première guerre mondiale.
+
+§7
+La nature de ce constat est de plus incertaine. Approchant une histoire de l'extradition par ce moyen, nous n'évoquons pas l'histoire d'un acte juridique, de ses définitions successives, pas plus que celle d'une pratique administrative qui a ses techniques, ses personnels et ses procédures. Nous tentons de cerner la façon dont ces règles et ces pratiques sont réfléchies par une masse de textes aux contours un peu incertains et flous. La question sous-jacente devient alors quels imaginaires sociaux, quels enjeux sont liés à la question de l'extradition, le cas échéant quels programmes sont élaborés et offerts qui soient susceptibles d'être attachés à une offre politique.
+
+§8
+Les courbes que produisent nos outils nous livrent donc une information précieuse mais partielle. Elles disent quand un mot, ou une association apparaît, à quelle fréquence, avec quelle intensité conjoncturelle. Elles ne disent pas comment il apparaît — dans quel type de texte, sous quelle mise en forme, pour produire quel effet. Ces modes de présence ne produisent pas le même effet sur la façon dont la procédure est rendue pensable, ou au contraire maintenue dans l'invisibilité de l'évidence administrative.
+
+---
+
+## BLOC 3 — 1829 : la politisation de l'extradition
+## Potentiel analytique : très fort potentiel Perelman (valeurs libérales vs conservatrices, dissociation, auditoire adversatif)
+## Fort potentiel Toulmin (thèse argumentée, grounds précis, warrant sur la légitimité politique)
+## Fort potentiel RST (structure contrastive entre deux camps, relations de background bien construites)
+
+§9
+L'année 1829, marquée par un usage du terme bien plus fréquent qu'à l'accoutumée durant cette période, illustre clairement ces logiques. Alors qu'il est très rare auparavant que les termes « extradition » et « politique » soient associés, c'est-à-dire présents dans un même document, nous les trouvons ensemble dans 3% de ceux regroupés dans la base de données étudiée qui sont parus en juin et juillet 1829. Ces 49 documents constituent 82% des documents qui, datant de la décennie 1820, contiennent ces deux mots. Brusque poussée donc, que l'on peut considérer comme une soudaine mise en débat de l'extradition, mieux sans doute comme une brusque politisation d'une pratique qui ne l'est guère auparavant à lire la presse française.
+
+§10
+De fait les opposants libéraux en font à la chambre le symbole d'une pratique de l'extradition, acte de souveraineté, qui expose l'illégitimité d'un souverain qui, loin d'être un magistrat veillant aux intérêts de la nation, agit sans règles, laissant libre cours aux passions mauvaises, celles de Mingrat certes, criminel dont les représentations iconographiques qui circulent manifestent la monstruosité, mais celles aussi des souverains européens qui étouffent les peuples au moyen de la Sainte alliance.
+
+§11
+Les rédacteurs de la Gazette des tribunaux concluent cette séquence, le 11 juillet 1829, d'une formule lapidaire considérant que « cette fatale extradition est le fruit d'une vengeance d'État ». Nous retrouvons, dans tous ces textes, des éléments du lexique d'un article paru dans Le Constitutionnel le 14 juin 1829, qui reproche au gouvernement d'avoir trahi le devoir d'asile et de « livrer aux vengeances de l'étranger les malheureux venus chercher un refuge sur notre sol hospitalier ».
+
+§12
+Elle est aussi un moyen, sous un régime de censure qui définit en partie les conditions d'énonciation des discours politiques, d'attaquer la légitimité d'un pouvoir en place, sans bornes et sans règles, dans un contexte de soubresauts révolutionnaires à l'échelle d'une Europe où s'affrontent défenseurs de l'ancien régime et tenants des aspirations libérales et nationales. Parce qu'acte souverain, elle révèle la nature du pouvoir qui s'exerce par elle, et potentiellement son illégitimité, lors même qu'elle révèle la dimension fondamentalement politique de la procédure.
+
+§13
+Les feuilles conservatrices ne s'y trompent pas, qui voient dans les protestations libérales une contestation radicale de l'ordre politique et de l'ordre social. Un rédacteur anonyme de La Quotidienne affirme ainsi en juin 1829 que « l'extradition, en matière politique, est un principe sans lequel il n'y a point de société », le refuser au nom des valeurs libérales revenant à affirmer que « les lois ne sont que des exceptions au droit des citoyens ; la justice est une violence ; la société est une violation de la liberté privée ; l'autorité est un désordre ».
+
+§14
+L'année 1829 apparaît ainsi comme un moment inaugural dans l'histoire politique de l'extradition en France. Si l'affaire Galloti a déjà été étudiée comme révélatrice des tensions autour du droit d'asile, et l'affaire Mingrat comme scandale criminel et ecclésiastique, leur mobilisation conjointe dans la presse et au Parlement n'avait pas encore été mise en lumière. C'est dans cette convergence discursive que se dessine pour la première fois en France une véritable politisation de l'extradition, entendue à la fois comme menace pour l'asile et comme révélateur de l'illégitimité du pouvoir, amoral parce que sans règles.
+
+---
+
+## BLOC 4 — De la coutume aux normes
+## Potentiel analytique : très fort potentiel Toulmin (raisonnement historiciste, backing explicite, warrant sur la coutume)
+## Fort potentiel RST (relations d'élaboration et de background denses, structure de preuve complexe)
+
+§15
+Ce mouvement est traditionnellement associé à la loi belge de 1833, qui affirme la nécessité d'une clause d'exception politique, appelée à se généraliser et qui en marquerait la première expression claire. La pratique peut cependant être considérée bien antérieure. Une note sur l'application de la convention de 1765 conclue entre la France et l'Espagne précise qu'en 1778, Pablo Olavide condamné par l'Inquisition s'étant réfugié en France, monsieur de Varennes répondit que sa Majesté ne pouvait « se prêter à la restitution du sieur Olavide », alors qu'à la même époque les criminels communs et les déserteurs sont rendus sans difficulté.
+
+§16
+Les textes des années 1830 donc ne signalent pas l'émergence d'une pratique, mais la mise par écrit d'une coutume suivie depuis plusieurs décennies déjà, sans avoir été inscrite explicitement ni dans les traités ni dans la loi. Dans le cas français, les controverses publiques et l'affaire Galloti particulièrement ont leur part dans le processus de cristallisation de la coutume en règle.
+
+§17
+Hauterive en effet n'invente pas la règle, il la dégage de l'examen d'une pratique enserrée par des textes, replacée dans un contexte historique qui la détermine. Herméneutique et historiciste, son travail aboutit à définir une norme d'action, écrite, en incorporant la double contrainte d'une opinion publique à laquelle il faut offrir un argumentaire et un récit cohérent et les réalités sociales et politiques qui déterminent les pratiques des États.
+
+§18
+La crise de 1829 apparaît donc moins comme une anomalie ou un épisode isolé que comme un précédent discursif décisif, connecté à une mutation de la norme, dont le souvenir, inscrit en un lexique, informe les controverses ultérieures ayant l'extradition pour objet. Durant la seconde moitié des années 1820, les gouvernements réactionnaires de Charles X, de François premier dans le royaume des deux Siciles et de Ferdinand VII en Espagne, tous soucieux de réaffirmer l'absolutisme royal, remettent de fait en cause une pratique coutumière, vieille de plusieurs décennies, qui permettait aux vaincus des luttes politiques endémiques en Europe depuis la fin du XVIIIe siècle de trouver refuge dans un pays voisin.
+
+---
+
+## BLOC 5 — 1866 : l'affaire Lamirande
+## Potentiel analytique : fort potentiel Perelman (technique du récit exemplaire, auditoire disciplinaire, lien causal)
+## Fort potentiel Toulmin (claim sur la mutation narrative, grounds précis, warrant implicite — passage déjà analysé dans l'article)
+## Fort potentiel RST (relations d'élaboration et de contraste entre récit et analyse)
+
+§19
+Les évocations de l'extradition la plus commentée de l'année condensent ces enjeux, les donnant à lire au travers d'un récit aux multiples épisodes et aux nombreuses variantes mettant aux prises des personnages qui ne manquent pas de pittoresque. L'affaire Lamirande pose en effet des problèmes de procédure et de doctrine qui justifient des explications truffées de termes techniques permettant au lecteur d'en saisir les enjeux. Elle implique de plus les autorités britanniques.
+
+§20
+Là encore les enjeux de la période sont donnés à voir à travers un cas à bien des titres exceptionnel, enchâssant les questions en débat en un récit mettant en lumière une figure en incarnant les contradictions, alors même que l'extradition est devenue une pratique fréquente, presque banale, dont le déroulement ordinaire retient peu l'attention de la presse ou des politiques. La France ainsi obtient en 1866 71 extraditions et en accorde 68. Or durant les quatre derniers mois de l'année, Lamirande est mentionné dans près de 40% des documents contenant le terme « extradition ».
+
+§21
+De ce fait, le cas Lamirande a suscité une correspondance serrée avec les autorités françaises, avant de devenir un cas célèbre, abondamment documenté, son retentissement ayant amené à la publication de la correspondance des autorités canadiennes relative au sujet. Il est de plus commenté à de multiples reprises et aujourd'hui encore par les juristes spécialistes des procédures d'extradition, dont le constat est que les normes en ont été bien peu respectées.
+
+§22
+La presse française rend compte de chacun de ces épisodes, lui consacrant 259 articles durant les quelques mois de 1866 que durent sa cavale, sa traque, puis son retour et son procès. On y évoque, avec force détails, les ressorts juridiques complexes d'une affaire célèbre et d'un scandale bourgeois, mais aussi, avec force détails et portraits, la chasse à l'homme qui permet à l'inspecteur Melin de lui mettre la main au collet et de ramener le coupable à bon port.
+
+§23
+Cette mise en récit de la poursuite et du travail policier — et non plus seulement de la destinée du pourchassé ou des décisions politiques — à laquelle donne lieu une affaire est plus mutation du récit que transformation du lexique, qui semble en porter peu la trace. Si le potentiel narratif des histoires d'extradition est dès le début du XIXe siècle perçu et exploité par la presse, la forme est cependant ici différente. Le récit par la presse de l'affaire Lamirande s'apparente au feuilleton récurrent, plutôt qu'à la nouvelle ou au roman né d'une brève judiciaire.
+
+§24
+Le point illustre les limites d'une méthode qui s'attache essentiellement aux mutations du thesaurus associé à une question, mais ne permet pas un repérage systématique de motifs ou de figures ou de structures narratives, qui en l'espèce font écho à la présence systématique du feuilleton dans la presse quotidienne depuis le milieu du siècle et à l'émergence d'un genre littéraire, exactement contemporain de l'affaire Lamirande, celui du roman judiciaire, ancêtre du roman policier.
+
+§25
+Si l'extradition, abus d'un pouvoir despotique, peut être « odieuse » en 1829 et encore, mais beaucoup moins fréquemment, au cours des décennies qui suivent, elle est contestable parce qu'irrégulière, pas plus conforme à la loi qu'aux traités, à partir du milieu du siècle, puis scandaleuse parce qu'« officieuse », c'est-à-dire pratique effective mais ne se disant pas comme telle afin d'échapper aux règles. Là encore nous sommes frappés par l'allure de ces courbes, l'assez brusque surgissement qui caractérise les années 1860 à partir desquelles l'extradition peut être dite irrégulière.

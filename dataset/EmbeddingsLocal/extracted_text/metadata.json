@@ -1,0 +1,512 @@
+{
+  "extraction": {
+    "date": "2026-04-19 14:07",
+    "nb_pdf": 2,
+    "nb_pages_total": 61,
+    "nb_pages_natives": 61,
+    "nb_pages_scannees": 0,
+    "nb_pages_vides": 0
+  },
+  "documents": [
+    {
+      "source": "CoursonAzoulay2023.pdf",
+      "nb_pages": 26,
+      "pages": [
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 1,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1014,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 2,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2009,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 3,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2485,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 4,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2508,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 5,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 4033,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 6,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3832,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 7,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3810,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 8,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1322,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 9,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1751,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 10,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 482,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 11,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2693,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 12,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 4079,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 13,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2855,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 14,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2257,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 15,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1361,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 16,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1520,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 17,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2348,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 18,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2626,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 19,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1941,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 20,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3433,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 21,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2851,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 22,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3071,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 23,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3235,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 24,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 4284,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 25,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3989,
+          "vide": false
+        },
+        {
+          "source": "CoursonAzoulay2023.pdf",
+          "page": 26,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2517,
+          "vide": false
+        }
+      ]
+    },
+    {
+      "source": "DeCoursonAzoulay2021.pdf",
+      "nb_pages": 35,
+      "pages": [
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 1,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 453,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 2,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 871,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 3,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3101,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 4,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3219,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 5,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3411,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 6,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3970,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 7,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3719,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 8,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3282,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 9,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2949,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 10,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3205,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 11,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2844,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 12,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2866,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 13,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2851,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 14,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1873,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 15,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2580,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 16,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2912,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 17,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2767,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 18,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3099,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 19,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2287,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 20,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 623,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 21,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1588,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 22,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 3062,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 23,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 117,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 24,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2407,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 25,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1688,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 26,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2201,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 27,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2039,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 28,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 1534,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 29,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2623,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 30,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2734,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 31,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2624,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 32,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2435,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 33,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2296,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 34,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2387,
+          "vide": false
+        },
+        {
+          "source": "DeCoursonAzoulay2021.pdf",
+          "page": 35,
+          "type": "natif",
+          "methode": "pymupdf",
+          "nb_chars": 2278,
+          "vide": false
+        }
+      ]
+    }
+  ]
+}
