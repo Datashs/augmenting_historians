@@ -4,6 +4,7 @@
 
 ## What this system does
 
+
 This pipeline is a set of Python scripts that assists historians in the
 critical analysis of their own manuscripts. It does not generate text in
 place of the author — it supports **reflexivity**: it makes visible what

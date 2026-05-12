@@ -6,6 +6,7 @@ type: software
 authors:
   - family-names: "Rygiel"
     given-names: "Philippe"
+    organisation: "Equipe Semis, Inria"
     orcid: "https://orcid.org/0000-0002-5308-8961"
 
 abstract: >
@@ -33,5 +34,6 @@ language: en
 
 version: "0.1.0"
 doi: 10.5281/zenodo.20122308
+
 
 date-released: 2026-05-11
